@@ -1,0 +1,38 @@
+# IntelliJ 
+.idea/
+out/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Eclipse
+bin/
+tmp/
+.classpath
+.project
+.settings/
+
+# Log
+.log 
+
+# Java 
+*.class
+
+
+# Netbeans 
+nbbuild/
+dist/
+nbdist/
+nbproject/private/
+.nb-gradle/
